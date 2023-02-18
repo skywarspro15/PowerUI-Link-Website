@@ -6,6 +6,6 @@
   
 [[redirects]]
   from = "/get"
-  to = "/PowerUI Link.apk"
+  to = "/get.html"
   status = 200
   force = false
